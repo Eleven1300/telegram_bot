@@ -1,5 +1,5 @@
 import time
-import winsound
+# import winsound
 import threading
 import requests
 from datetime import datetime, date
